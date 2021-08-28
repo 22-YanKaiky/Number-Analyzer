@@ -1,0 +1,52 @@
+body {
+    background: rgb(39, 13, 168);
+    font: normal 16pt 'Ubuntu';
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.553);
+}
+
+div {
+    padding: 6px;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+select {
+    width: 10rem;
+    border: 3px solid #bbb1b1;
+}
+
+input {
+    padding: 8px;
+    border: none;
+    margin: 10px;
+    border-radius: 6px;
+    background: rgb(187, 177, 177);
+    outline: none;
+}
+
+input.btn {
+    width: 15%;
+    background: rgb(48, 48, 255);
+    font-weight: bold;
+    color: white;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
